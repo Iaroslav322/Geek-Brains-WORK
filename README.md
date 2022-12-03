@@ -11,3 +11,4 @@
 5)Выводим новый заполненный массив как результат.
 
 
+![diagram](https://user-images.githubusercontent.com/115419903/205444291-2f2a2f57-932f-4c09-a405-cf1ef020533b.png)
